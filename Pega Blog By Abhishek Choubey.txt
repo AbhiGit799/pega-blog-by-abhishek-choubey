@@ -11,8 +11,8 @@ https://empowering-world-with-technology.blogspot.com/2023/06/frequently-used-da
 When Rule Expression For Checking Given Case Is Parent Or Not
 https://empowering-world-with-technology.blogspot.com/2023/06/when-rule-expression-for-checking-given.html
 
-
-
+pxSubscript and pxListSubscript Properties In Pega 
+https://empowering-world-with-technology.blogspot.com/2023/06/pxsubscript-and-pxlistsubscript.html
 
 
 
