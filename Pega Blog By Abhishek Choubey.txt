@@ -1,5 +1,6 @@
 Blogs Written By Abhishek Choubey                                                                                                                  
 
+
 What is Pega ?
 https://empowering-world-with-technology.blogspot.com/2022/11/pega.html
 
@@ -11,11 +12,13 @@ https://empowering-world-with-technology.blogspot.com/2023/06/frequently-used-da
 When Rule Expression For Checking Given Case Is Parent Or Not
 https://empowering-world-with-technology.blogspot.com/2023/06/when-rule-expression-for-checking-given.html
 
+
 pxSubscript and pxListSubscript Properties In Pega 
 https://empowering-world-with-technology.blogspot.com/2023/06/pxsubscript-and-pxlistsubscript.html
 
 
-
+pyForEachCount In Pega
+https://empowering-world-with-technology.blogspot.com/2023/06/pyforeachcount-in-pega.html
 
 
 
